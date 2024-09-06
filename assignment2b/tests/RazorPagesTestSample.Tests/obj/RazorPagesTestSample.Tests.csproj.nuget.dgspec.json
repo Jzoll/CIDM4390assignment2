@@ -1,0 +1,168 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jessicazoll/School/2024/Fall/Software Sys Dev 4390/assignment2b/tests/RazorPagesTestSample.Tests/RazorPagesTestSample.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/jessicazoll/School/2024/Fall/Software Sys Dev 4390/assignment2b/src/RazorPagesTestSample/RazorPagesTestSample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jessicazoll/School/2024/Fall/Software Sys Dev 4390/assignment2b/src/RazorPagesTestSample/RazorPagesTestSample.csproj",
+        "projectName": "RazorPagesTestSample",
+        "projectPath": "/Users/jessicazoll/School/2024/Fall/Software Sys Dev 4390/assignment2b/src/RazorPagesTestSample/RazorPagesTestSample.csproj",
+        "packagesPath": "/Users/jessicazoll/.nuget/packages/",
+        "outputPath": "/Users/jessicazoll/School/2024/Fall/Software Sys Dev 4390/assignment2b/src/RazorPagesTestSample/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jessicazoll/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "netcoreapp8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "netcoreapp8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jessicazoll/School/2024/Fall/Software Sys Dev 4390/assignment2b/tests/RazorPagesTestSample.Tests/RazorPagesTestSample.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jessicazoll/School/2024/Fall/Software Sys Dev 4390/assignment2b/tests/RazorPagesTestSample.Tests/RazorPagesTestSample.Tests.csproj",
+        "projectName": "RazorPagesTestSample.Tests",
+        "projectPath": "/Users/jessicazoll/School/2024/Fall/Software Sys Dev 4390/assignment2b/tests/RazorPagesTestSample.Tests/RazorPagesTestSample.Tests.csproj",
+        "packagesPath": "/Users/jessicazoll/.nuget/packages/",
+        "outputPath": "/Users/jessicazoll/School/2024/Fall/Software Sys Dev 4390/assignment2b/tests/RazorPagesTestSample.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jessicazoll/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "netcoreapp8.0",
+            "projectReferences": {
+              "/Users/jessicazoll/School/2024/Fall/Software Sys Dev 4390/assignment2b/src/RazorPagesTestSample/RazorPagesTestSample.csproj": {
+                "projectPath": "/Users/jessicazoll/School/2024/Fall/Software Sys Dev 4390/assignment2b/src/RazorPagesTestSample/RazorPagesTestSample.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "netcoreapp8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.TestHost": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.13.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.Diagnostics.TraceSource": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

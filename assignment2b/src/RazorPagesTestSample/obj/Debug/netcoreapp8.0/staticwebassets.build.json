@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "aoVP1ZIe1oMXZyR03Y0XAdONSS4lcFTtTG2ApO+hsRk=",
+  "Source": "RazorPagesTestSample",
+  "BasePath": "_content/RazorPagesTestSample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RazorPagesTestSample/wwwroot",
+      "Source": "RazorPagesTestSample",
+      "ContentRoot": "/Users/jessicazoll/School/2024/Fall/Software Sys Dev 4390/assignment2b/src/RazorPagesTestSample/wwwroot/",
+      "BasePath": "_content/RazorPagesTestSample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/jessicazoll/School/2024/Fall/Software Sys Dev 4390/assignment2b/src/RazorPagesTestSample/wwwroot/favicon.ico",
+      "SourceId": "RazorPagesTestSample",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jessicazoll/School/2024/Fall/Software Sys Dev 4390/assignment2b/src/RazorPagesTestSample/wwwroot/",
+      "BasePath": "_content/RazorPagesTestSample",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/favicon.ico"
+    }
+  ]
+}

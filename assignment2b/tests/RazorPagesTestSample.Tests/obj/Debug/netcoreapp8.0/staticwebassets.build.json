@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "Hash": "aDT/rHzhUlQ5c21Pg82slvxVvNWhL03TBg0I4Rac/uc=",
+  "Source": "RazorPagesTestSample.Tests",
+  "BasePath": "_content/RazorPagesTestSample.Tests",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/Users/jessicazoll/School/2024/Fall/Software Sys Dev 4390/assignment2b/src/RazorPagesTestSample/RazorPagesTestSample.csproj",
+      "Version": 2,
+      "Source": "RazorPagesTestSample",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RazorPagesTestSample/wwwroot",
+      "Source": "RazorPagesTestSample",
+      "ContentRoot": "/Users/jessicazoll/School/2024/Fall/Software Sys Dev 4390/assignment2b/src/RazorPagesTestSample/wwwroot/",
+      "BasePath": "_content/RazorPagesTestSample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/jessicazoll/School/2024/Fall/Software Sys Dev 4390/assignment2b/src/RazorPagesTestSample/wwwroot/favicon.ico",
+      "SourceId": "RazorPagesTestSample",
+      "SourceType": "Project",
+      "ContentRoot": "/Users/jessicazoll/School/2024/Fall/Software Sys Dev 4390/assignment2b/src/RazorPagesTestSample/wwwroot/",
+      "BasePath": "_content/RazorPagesTestSample",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/favicon.ico"
+    }
+  ]
+}
